@@ -2,8 +2,7 @@
 
 ## Web Compiler.  
 Linuxers can use a web compiler to build your sketch.  
-[Gadget Renesas](https://www.renesas.com/us/en/products/gadget-renesas.html)  
-[Gadget Renesas(in Japanese)](https://www.renesas.com/jp/ja/products/gadget-renesas.html)  
+[Gadget Renesas](https://www.renesas.com/us/en/products/gadget-renesas.html)[(in Japanese)](https://www.renesas.com/jp/ja/products/gadget-renesas.html)  
 
 ## Folders.  
 
