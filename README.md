@@ -9,6 +9,7 @@
 |About|Tips|  
 |:-----------|:------------|  
 |Compiling Micro-XRCE-DDS-Agent|Do not call /opt/ros/VERSION/setup.bash on the terminal for using compiling Micro-XRCE-DDS-Agent, or you will see a core dump message after connected with a dds-client.|  
+|Installing Micro-XRCE-DDS-Gen|Preparing Java environment: sudo apt install openjdk-11-jre-headless |  
 
-Maintained: 18th Nov. 2019  
+Maintained: 27th Nov. 2019  
 Created: 18th Nov. 2019  
